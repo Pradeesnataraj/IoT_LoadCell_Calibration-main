@@ -1,0 +1,24 @@
+                                         LOADCELL CONNECTIONS
+
+HX711 CONNECTION
+
+GND Connected to GND
+DT pin connected to GPIO 2
+SCK pin connected to GPIO 4
+VCC Connected to Vin
+
+LCD CONNECTION
+
+GND to GND
+VCC to 3V
+SDA pin connected to GPIO 21
+SCL pin connected to GPIO 22
+
+DELAY
+
+3000 - 2 Sec
+1000 - 1 sec
+
+float weight=I/p weight
+
+
